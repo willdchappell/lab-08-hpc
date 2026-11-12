@@ -1,0 +1,29 @@
+JobID           JobName      User    Account  Partition  AllocCPUS              Submit               Start    Elapsed      State ExitCode 
+------------ ---------- --------- ---------- ---------- ---------- ------------------- ------------------- ---------- ---------- -------- 
+22517239     ood_vscode    azz8eg     ds2022 interacti+          1 2026-11-05T14:36:18 2026-11-05T14:36:21   00:42:10 CANCELLED+      0:0 
+22517239.ba+      batch               ds2022                     1 2026-11-05T14:36:21 2026-11-05T14:36:21   00:42:11  CANCELLED     0:15 
+22517759          hello    azz8eg     ds2022 interacti+          1 2026-11-05T14:53:49 2026-11-05T14:54:14   00:00:04  COMPLETED      0:0 
+22517759.ba+      batch               ds2022                     1 2026-11-05T14:54:14 2026-11-05T14:54:14   00:00:04  COMPLETED      0:0 
+22517912          hello    azz8eg     ds2022 interacti+          0 2026-11-05T14:56:15                None   00:00:00 CANCELLED+      0:0 
+22518297_1   hello-arr+    azz8eg     ds2022 interacti+          1 2026-11-05T15:03:23 2026-11-05T15:04:21   00:00:04  COMPLETED      0:0 
+22518297_1.+      batch               ds2022                     1 2026-11-05T15:04:21 2026-11-05T15:04:21   00:00:04  COMPLETED      0:0 
+22518297_2   hello-arr+    azz8eg     ds2022 interacti+          1 2026-11-05T15:03:23 2026-11-05T15:04:21   00:00:04  COMPLETED      0:0 
+22518297_2.+      batch               ds2022                     1 2026-11-05T15:04:21 2026-11-05T15:04:21   00:00:04  COMPLETED      0:0 
+22518297_3   hello-arr+    azz8eg     ds2022 interacti+          1 2026-11-05T15:03:23 2026-11-05T15:04:21   00:00:04  COMPLETED      0:0 
+22518297_3.+      batch               ds2022                     1 2026-11-05T15:04:21 2026-11-05T15:04:21   00:00:04  COMPLETED      0:0 
+22518297_4   hello-arr+    azz8eg     ds2022 interacti+          1 2026-11-05T15:03:23 2026-11-05T15:04:21   00:00:04  COMPLETED      0:0 
+22518297_4.+      batch               ds2022                     1 2026-11-05T15:04:21 2026-11-05T15:04:21   00:00:04  COMPLETED      0:0 
+22518297_5   hello-arr+    azz8eg     ds2022 interacti+          1 2026-11-05T15:03:23 2026-11-05T15:04:21   00:00:04  COMPLETED      0:0 
+22518297_5.+      batch               ds2022                     1 2026-11-05T15:04:21 2026-11-05T15:04:21   00:00:04  COMPLETED      0:0 
+22518328_1   hello-arr+    azz8eg     ds2022 interacti+          1 2026-11-05T15:04:31 2026-11-05T15:05:07   00:00:02  COMPLETED      0:0 
+22518328_1.+      batch               ds2022                     1 2026-11-05T15:05:07 2026-11-05T15:05:07   00:00:02  COMPLETED      0:0 
+22518328_2   hello-arr+    azz8eg     ds2022 interacti+          1 2026-11-05T15:04:31 2026-11-05T15:05:07   00:00:02  COMPLETED      0:0 
+22518328_2.+      batch               ds2022                     1 2026-11-05T15:05:07 2026-11-05T15:05:07   00:00:02  COMPLETED      0:0 
+22518328_3   hello-arr+    azz8eg     ds2022 interacti+          1 2026-11-05T15:04:31 2026-11-05T15:05:07   00:00:02  COMPLETED      0:0 
+22518328_3.+      batch               ds2022                     1 2026-11-05T15:05:07 2026-11-05T15:05:07   00:00:02  COMPLETED      0:0 
+22518328_4   hello-arr+    azz8eg     ds2022 interacti+          1 2026-11-05T15:04:31 2026-11-05T15:05:07   00:00:02  COMPLETED      0:0 
+22518328_4.+      batch               ds2022                     1 2026-11-05T15:05:07 2026-11-05T15:05:07   00:00:02  COMPLETED      0:0 
+22518328_5   hello-arr+    azz8eg     ds2022 interacti+          1 2026-11-05T15:04:31 2026-11-05T15:05:07   00:00:02  COMPLETED      0:0 
+22518328_5.+      batch               ds2022                     1 2026-11-05T15:05:07 2026-11-05T15:05:07   00:00:02  COMPLETED      0:0 
+22840031_[1]  summarize    azz8eg     ds2022    gpu-mig          0 2026-11-11T18:01:53             Unknown   00:00:00    PENDING      0:0 
+22854718_[1+  summarize    azz8eg     ds2022    gpu-mig          0 2026-11-11T21:41:34             Unknown   00:00:00    PENDING      0:0 
