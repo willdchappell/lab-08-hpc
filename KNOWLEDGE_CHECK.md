@@ -11,7 +11,7 @@ Redirect the command's output to `results/job-history.txt` and include the file 
 *Hint:* See [Part 1, Step 6](README.md#step-6-check-how-the-tasks-ended) in the README.
 
 **Your answer:** Provide the entire command you used, including all CLI options.
-
+sacct -u $USER -S 2026-11-04 --format=JobID,JobName,NodeList,Partition,Account,User,State,Start,Elapsed
 ...
 
 ## 2. Slurm: did every array task run at the same time?
